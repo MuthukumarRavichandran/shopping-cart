@@ -12,3 +12,5 @@ ui/price-calculator/node_modules
 /api/price-calculator/tests/Service.Tests/bin/Debug/net8.0
 /api/price-calculator/tests/Service.Tests/obj
 /api/price-calculator/.vs/Price.Calculator
+api/price-calculator/.vs/ProjectEvaluation/price.calculator.metadata.v7.bin
+api/price-calculator/.vs/ProjectEvaluation/price.calculator.projects.v7.bin
