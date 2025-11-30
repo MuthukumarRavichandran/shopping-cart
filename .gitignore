@@ -1,1 +1,14 @@
 ui/price-calculator/node_modules
+/api/price-calculator/src/Api/bin/Debug/net8.0
+/api/price-calculator/src/Api/obj
+/api/price-calculator/src/Contractors/bin/Debug/net8.0
+/api/price-calculator/src/Contractors/obj
+/api/price-calculator/src/Domain/bin/Debug/net8.0
+/api/price-calculator/src/Domain/obj
+/api/price-calculator/src/Service/bin/Debug/net8.0
+/api/price-calculator/src/Service/obj
+/api/price-calculator/tests/Api.Tests/bin/Debug/net8.0
+/api/price-calculator/tests/Api.Tests/obj
+/api/price-calculator/tests/Service.Tests/bin/Debug/net8.0
+/api/price-calculator/tests/Service.Tests/obj
+/api/price-calculator/.vs/Price.Calculator
