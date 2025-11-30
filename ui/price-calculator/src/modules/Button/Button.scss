@@ -1,0 +1,29 @@
+.button {
+    padding: 6px 12px;
+
+    &.primary {
+        background-color: #053e7a;
+        color: #fff;
+    &:hover {
+      background-color: #284561;
+    }
+  }
+
+    &.success {
+    background-color: #156126;
+    color: #fff;
+
+    &:hover {
+      background-color: #1c3b23;
+    }
+  }
+
+    &.danger {
+    background-color: #a51324;
+    color: #fff;
+
+    &:hover {
+      background-color: #461217;
+    }
+  }
+}

@@ -1,0 +1,44 @@
+.cart-controls {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+
+  .select-box,
+  .quantity-box {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .select-box select {
+    width: 150px;
+    padding: 6px 12px;
+  }
+
+  .quantity-box {
+    width: 100px;
+
+    .quantity-buttons {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+
+      span {
+        width: 20px;
+        text-align: center;
+      }
+    }
+  }
+
+  .checkout-button,
+  .clear-button {
+    margin-top: 25px;
+  }
+  .error-message {
+    color: #680d0d;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+}
